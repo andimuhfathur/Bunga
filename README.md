@@ -1,2 +1,2 @@
-# Bunga
+# Bunga.github.io
 Bunga
